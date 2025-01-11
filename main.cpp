@@ -7,7 +7,7 @@ int main() {
     float liczba1, liczba2;
     char operacja;
 
-    cout << "Autor: Kamil Cichecki 3TI " << endl;
+    cout << "Autor: Kamil " << endl;
 
      cout << "\n Podaj pierwsza liczbe: ";
      cin >> liczba1;
